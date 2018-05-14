@@ -1,0 +1,1 @@
+# Javascript Typing Test Speed
